@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\7\\Dragon\\DragonTower\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Dragon-Tower-Casino\\Dragon-Tower-Casino.csproj|d:\\githubnew\\7\\dragon\\dragontower\\dragon-tower-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Dragon-Tower-Casino\\Dragon-Tower-Casino.csproj|solutionrelative:dragon-tower-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Dragon-Tower-Casino\\Dragon-Tower-Casino.csproj|d:\\githubnew\\7\\dragon\\dragontower\\dragon-tower-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Dragon-Tower-Casino\\Dragon-Tower-Casino.csproj|solutionrelative:dragon-tower-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\7\\Dragon\\DragonTower\\Dragon-Tower-Casino\\Form1.cs",
+              "RelativeDocumentMoniker": "Dragon-Tower-Casino\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\7\\Dragon\\DragonTower\\Dragon-Tower-Casino\\Form1.cs [Design]",
+              "RelativeToolTip": "Dragon-Tower-Casino\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:07:51.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\7\\Dragon\\DragonTower\\Dragon-Tower-Casino\\Program.cs",
+              "RelativeDocumentMoniker": "Dragon-Tower-Casino\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\7\\Dragon\\DragonTower\\Dragon-Tower-Casino\\Program.cs",
+              "RelativeToolTip": "Dragon-Tower-Casino\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:07:50.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
